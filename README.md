@@ -1,4 +1,4 @@
-# README.md Maker Demo
+# README Maker Demo
 
 ## Description
 
