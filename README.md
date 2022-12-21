@@ -1,8 +1,8 @@
-# sure
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README.md Maker Demo
+
 ## Description
 
-no
+A node.js program that creates a README.md from user prompts.
 
 ## Table of Contents
 
@@ -10,39 +10,29 @@ no
 - [Usage](#usage-information)
 - [Contributions](#contribution-guidelines)
 - [Testing](#testing-instructions)
-- [License](#license)
 - [Questions](#questions)
 
 
 ## Installation Instructions
 
-as
+Copy the contents of the download into any directory, and navigate to that directory via the command line. Type 'node index.js' to run the program.
 
 ## Usage Information
 
-g
+You need node.js installed in your computer to use this program.
 
 ## Contribution Guidelines
 
-h
+N/A
 
 ## Testing Instructions
 
-j
-
-## License
-
-MIT License
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+I already tested everything so you don't have to.
 
 ## Questions
 
 If you have any questions, I can be contacted via: 
 
-Github: [ga](https://github.com/ga)
+Github: [luluco92](https://github.com/luluco92)
 
-E-mail: h
+
